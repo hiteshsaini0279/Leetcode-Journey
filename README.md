@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0029-divide-two-integers) |
 | [2651-calculate-delayed-arrival-time](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2651-calculate-delayed-arrival-time) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## String
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
