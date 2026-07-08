@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
+| [1184-distance-between-bus-stops](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1184-distance-between-bus-stops) |
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
