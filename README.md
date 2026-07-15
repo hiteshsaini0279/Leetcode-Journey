@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0029-divide-two-integers) |
+| [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2651-calculate-delayed-arrival-time) |
@@ -118,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
