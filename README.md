@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1556-thousand-separator) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 ## Stack
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Counting
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0029-divide-two-integers) |
+| [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Geometry
 |  |
