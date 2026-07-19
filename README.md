@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1184-distance-between-bus-stops) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
