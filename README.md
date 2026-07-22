@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1184-distance-between-bus-stops) |
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0029-divide-two-integers) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
