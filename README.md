@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2239-find-closest-number-to-zero) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1556-thousand-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1556-thousand-separator) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
