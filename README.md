@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
