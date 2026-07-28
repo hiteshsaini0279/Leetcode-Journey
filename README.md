@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1184-distance-between-bus-stops) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
 ## Bit Manipulation
