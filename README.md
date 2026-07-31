@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1556-thousand-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1556-thousand-separator) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
