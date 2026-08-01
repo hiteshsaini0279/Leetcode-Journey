@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
+| [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
