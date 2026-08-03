@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1184-distance-between-bus-stops) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
