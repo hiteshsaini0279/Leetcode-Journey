@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
