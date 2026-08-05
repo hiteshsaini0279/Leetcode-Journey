@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2239-find-closest-number-to-zero) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Game Theory
 |  |
