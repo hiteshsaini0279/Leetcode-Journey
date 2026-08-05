@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1556-thousand-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1556-thousand-separator) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
