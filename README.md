@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
