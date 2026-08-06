@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
