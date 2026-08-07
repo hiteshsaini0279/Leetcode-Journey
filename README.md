@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Knapsack Problem
 |  |
@@ -298,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
