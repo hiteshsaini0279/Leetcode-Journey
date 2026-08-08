@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
