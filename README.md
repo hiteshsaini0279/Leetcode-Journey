@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2748-number-of-beautiful-pairs) |
 ## Prefix Sum
@@ -340,10 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 ## Tree
 |  |
 | ------- |
