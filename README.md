@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0441-arranging-coins](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0441-arranging-coins) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Knapsack Problem
