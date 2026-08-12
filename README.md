@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
