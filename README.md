@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0312-burst-balloons) |
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0583-delete-operation-for-two-strings) |
