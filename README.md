@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
