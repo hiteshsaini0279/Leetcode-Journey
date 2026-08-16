@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0182-duplicate-emails) |
+| [0595-big-countries](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
