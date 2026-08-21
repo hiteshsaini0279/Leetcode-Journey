@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
