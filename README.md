@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1556-thousand-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1556-thousand-separator) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
