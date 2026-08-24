@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
