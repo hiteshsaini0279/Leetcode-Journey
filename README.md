@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
