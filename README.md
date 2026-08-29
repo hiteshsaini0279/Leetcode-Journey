@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2788-split-strings-by-separator) |
+| [3019-number-of-changing-keys](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3136-valid-word) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
