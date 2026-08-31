@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Knapsack Problem
