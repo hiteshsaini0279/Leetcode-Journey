@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1185-day-of-the-week) |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1688-count-of-matches-in-tournament) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2748-number-of-beautiful-pairs) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
