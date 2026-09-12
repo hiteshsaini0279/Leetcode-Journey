@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1688-count-of-matches-in-tournament) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2103-rings-and-rods) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2299-strong-password-checker-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
