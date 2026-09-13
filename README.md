@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3731-find-missing-elements) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2716-minimize-string-length](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2716-minimize-string-length) |
