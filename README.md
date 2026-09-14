@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1025-divisor-game) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0029-divide-two-integers) |
 | [0476-number-complement](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
@@ -507,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0459-repeated-substring-pattern) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
