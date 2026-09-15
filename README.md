@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1534-count-good-triplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
