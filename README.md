@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1720-decode-xored-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1720-decode-xored-array) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1720-decode-xored-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
