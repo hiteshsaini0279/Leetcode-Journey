@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1995-count-special-quadruplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1995-count-special-quadruplets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1995-count-special-quadruplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1995-count-special-quadruplets) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
+| [1995-count-special-quadruplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
