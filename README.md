@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
