@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3917-count-indices-with-opposite-parity) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
