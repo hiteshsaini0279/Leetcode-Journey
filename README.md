@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3136-valid-word) |
+| [3210-find-the-encrypted-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3210-find-the-encrypted-string) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 | [3456-find-special-substring-of-length-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3456-find-special-substring-of-length-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
