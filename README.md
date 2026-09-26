@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2103-rings-and-rods) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
