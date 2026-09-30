@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
+| [0938-range-sum-of-bst](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -522,14 +523,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0938-range-sum-of-bst](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0938-range-sum-of-bst](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0938-range-sum-of-bst](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0938-range-sum-of-bst) |
 ## Database
 |  |
 | ------- |
