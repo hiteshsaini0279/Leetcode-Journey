@@ -454,12 +454,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
 ## String Matching
 |  |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0938-range-sum-of-bst) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0938-range-sum-of-bst) |
