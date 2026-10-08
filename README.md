@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
+| [1408-string-matching-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1408-string-matching-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1556-thousand-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1556-thousand-separator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
 |  |
