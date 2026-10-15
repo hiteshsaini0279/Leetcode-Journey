@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2427-number-of-common-factors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2427-number-of-common-factors) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
