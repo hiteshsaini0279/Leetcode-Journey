@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1037-valid-boomerang) |
+| [1089-duplicate-zeros](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1184-distance-between-bus-stops) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
+| [1089-duplicate-zeros](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1089-duplicate-zeros) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
