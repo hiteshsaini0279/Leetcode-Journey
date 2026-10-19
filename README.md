@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
+| [4030-check-ascii-palindromic](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/4030-check-ascii-palindromic) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3794-reverse-string-prefix) |
+| [4030-check-ascii-palindromic](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
+| [4030-check-ascii-palindromic](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/4030-check-ascii-palindromic) |
 ## Geometry
 |  |
 | ------- |
