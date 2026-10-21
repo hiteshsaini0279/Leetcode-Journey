@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2788-split-strings-by-separator) |
