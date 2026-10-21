@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1903-largest-odd-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2427-number-of-common-factors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2427-number-of-common-factors) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1903-largest-odd-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0044-wildcard-matching) |
 | [0561-array-partition](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0561-array-partition) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1903-largest-odd-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
