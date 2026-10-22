@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2103-rings-and-rods) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2103-rings-and-rods) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2506-count-pairs-of-similar-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
