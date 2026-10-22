@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-number-of-even-and-odd-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2595-number-of-even-and-odd-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [4030-check-ascii-palindromic](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/4030-check-ascii-palindromic) |
 ## Geometry
