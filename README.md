@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3917-count-indices-with-opposite-parity) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
