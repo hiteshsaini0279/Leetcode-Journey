@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3917-count-indices-with-opposite-parity) |
+| [3925-concatenate-array-with-reverse](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
+| [3925-concatenate-array-with-reverse](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
