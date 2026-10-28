@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
+| [0434-number-of-segments-in-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0459-repeated-substring-pattern) |
 | [0551-student-attendance-record-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0583-delete-operation-for-two-strings) |
