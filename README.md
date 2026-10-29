@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1399-count-largest-group) |
@@ -687,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
