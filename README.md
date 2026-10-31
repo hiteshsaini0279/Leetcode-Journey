@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3046-split-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3046-split-the-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
