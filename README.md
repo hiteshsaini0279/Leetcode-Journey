@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
+| [1313-decompress-run-length-encoded-list](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1313-decompress-run-length-encoded-list) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1390-four-divisors) |
 | [1408-string-matching-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1408-string-matching-in-an-array) |
