@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -707,5 +708,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
