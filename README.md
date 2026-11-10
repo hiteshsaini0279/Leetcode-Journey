@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1837-sum-of-digits-in-base-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
