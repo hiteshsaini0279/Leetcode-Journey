@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0434-number-of-segments-in-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0459-repeated-substring-pattern) |
+| [0504-base-7](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
