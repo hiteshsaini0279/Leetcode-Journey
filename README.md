@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2396-strictly-palindromic-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2562-find-the-array-concatenation-value) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
