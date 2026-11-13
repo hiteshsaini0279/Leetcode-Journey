@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0072-edit-distance) |
+| [0165-compare-version-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0434-number-of-segments-in-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0434-number-of-segments-in-a-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1089-duplicate-zeros) |
