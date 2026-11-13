@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
