@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1720-decode-xored-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1720-decode-xored-array) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1089-duplicate-zeros) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 ## Greedy
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0561-array-partition) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0459-repeated-substring-pattern) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 ## Primality Test
 |  |
 | ------- |
