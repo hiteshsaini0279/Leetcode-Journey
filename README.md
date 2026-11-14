@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0868-binary-gap) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1720-decode-xored-array) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
