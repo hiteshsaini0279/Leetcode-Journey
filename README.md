@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3271-hash-divided-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3271-hash-divided-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-find-the-encrypted-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3210-find-the-encrypted-string) |
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3271-hash-divided-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3271-hash-divided-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3456-find-special-substring-of-length-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3456-find-special-substring-of-length-k) |
