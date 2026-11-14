@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2562-find-the-array-concatenation-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3794-reverse-string-prefix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3794-reverse-string-prefix) |
 | [4030-check-ascii-palindromic](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [4030-check-ascii-palindromic](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/4030-check-ascii-palindromic) |
 ## Geometry
 |  |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Knapsack Problem
 |  |
 | ------- |
