@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0648-replace-words) |
 | [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0648-replace-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1122-relative-sort-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1122-relative-sort-array) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0648-replace-words) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
