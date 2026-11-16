@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1763-longest-nice-substring](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1763-longest-nice-substring) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1399-count-largest-group](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
