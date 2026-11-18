@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3046-split-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2788-split-strings-by-separator) |
 | [3019-number-of-changing-keys](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3019-number-of-changing-keys) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3136-valid-word) |
 | [3210-find-the-encrypted-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3210-find-the-encrypted-string) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0648-replace-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0648-replace-words) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -650,10 +654,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
