@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1534-count-good-triplets](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1720-decode-xored-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1720-decode-xored-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Knapsack Problem
