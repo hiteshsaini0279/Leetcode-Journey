@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3271-hash-divided-string) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3270-find-the-key-of-the-numbers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
