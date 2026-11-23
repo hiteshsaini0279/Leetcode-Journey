@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2103-rings-and-rods](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2103-rings-and-rods) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
