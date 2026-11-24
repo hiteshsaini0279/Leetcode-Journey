@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2239-find-closest-number-to-zero](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2239-find-closest-number-to-zero) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2465-number-of-distinct-averages) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
