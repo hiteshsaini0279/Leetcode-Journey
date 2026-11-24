@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3697-compute-decimal-representation](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3271-hash-divided-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3456-find-special-substring-of-length-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3456-find-special-substring-of-length-k) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
