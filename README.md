@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2923-find-champion-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2923-find-champion-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2951-find-the-peaks](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2643-row-with-maximum-ones) |
+| [2923-find-champion-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
