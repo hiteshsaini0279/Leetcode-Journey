@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3271-hash-divided-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3477-fruits-into-baskets-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3477-fruits-into-baskets-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Knapsack Problem
 |  |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3477-fruits-into-baskets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -806,4 +810,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1859-sorting-the-sentence) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
