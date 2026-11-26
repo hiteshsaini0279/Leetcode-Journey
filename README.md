@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3477-fruits-into-baskets-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3582-generate-tag-for-video-caption](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3582-generate-tag-for-video-caption) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
 | [3925-concatenate-array-with-reverse](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3582-generate-tag-for-video-caption](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3582-generate-tag-for-video-caption) |
 | [3794-reverse-string-prefix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3813-vowel-consonant-score) |
 | [4030-check-ascii-palindromic](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/4030-check-ascii-palindromic) |
