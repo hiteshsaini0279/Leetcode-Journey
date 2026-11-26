@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2923-find-champion-i](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
