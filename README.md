@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0648-replace-words) |
 | [0796-rotate-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0824-goat-latin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hiteshsaini0279/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
